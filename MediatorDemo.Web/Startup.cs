@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using MediatR;
 using System.Reflection;
+using MediatorDemo.Web.Queries;
 
 namespace MediatorDemo.Web
 {

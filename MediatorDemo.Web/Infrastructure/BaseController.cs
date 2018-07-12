@@ -2,7 +2,7 @@ using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace MediatorDemo.Web
+namespace MediatorDemo.Web.Infrastructure
 {
   public class BaseController : ControllerBase
   {

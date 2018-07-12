@@ -1,8 +1,9 @@
 using System.Threading;
 using System.Threading.Tasks;
+using MediatorDemo.Web.ViewModels;
 using MediatR;
 
-namespace MediatorDemo.Web
+namespace MediatorDemo.Web.Queries
 {
   public class GetProductQueryHandler : IRequestHandler<GetProductQuery, ProductViewModel>
   {
