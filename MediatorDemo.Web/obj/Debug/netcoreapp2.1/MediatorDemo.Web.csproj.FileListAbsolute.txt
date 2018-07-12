@@ -1,0 +1,14 @@
+/Users/david/Sites/DotNet/MediatorDemo/MediatorDemo.Web/bin/Debug/netcoreapp2.1/MediatorDemo.Web.deps.json
+/Users/david/Sites/DotNet/MediatorDemo/MediatorDemo.Web/bin/Debug/netcoreapp2.1/MediatorDemo.Web.runtimeconfig.json
+/Users/david/Sites/DotNet/MediatorDemo/MediatorDemo.Web/bin/Debug/netcoreapp2.1/MediatorDemo.Web.runtimeconfig.dev.json
+/Users/david/Sites/DotNet/MediatorDemo/MediatorDemo.Web/bin/Debug/netcoreapp2.1/MediatorDemo.Web.dll
+/Users/david/Sites/DotNet/MediatorDemo/MediatorDemo.Web/bin/Debug/netcoreapp2.1/MediatorDemo.Web.pdb
+/Users/david/Sites/DotNet/MediatorDemo/MediatorDemo.Web/obj/Debug/netcoreapp2.1/MediatorDemo.Web.csprojAssemblyReference.cache
+/Users/david/Sites/DotNet/MediatorDemo/MediatorDemo.Web/obj/Debug/netcoreapp2.1/MediatorDemo.Web.csproj.CoreCompileInputs.cache
+/Users/david/Sites/DotNet/MediatorDemo/MediatorDemo.Web/obj/Debug/netcoreapp2.1/MediatorDemo.Web.RazorAssemblyInfo.cache
+/Users/david/Sites/DotNet/MediatorDemo/MediatorDemo.Web/obj/Debug/netcoreapp2.1/MediatorDemo.Web.RazorAssemblyInfo.cs
+/Users/david/Sites/DotNet/MediatorDemo/MediatorDemo.Web/obj/Debug/netcoreapp2.1/MediatorDemo.Web.AssemblyInfoInputs.cache
+/Users/david/Sites/DotNet/MediatorDemo/MediatorDemo.Web/obj/Debug/netcoreapp2.1/MediatorDemo.Web.AssemblyInfo.cs
+/Users/david/Sites/DotNet/MediatorDemo/MediatorDemo.Web/obj/Debug/netcoreapp2.1/MediatorDemo.Web.RazorTargetAssemblyInfo.cache
+/Users/david/Sites/DotNet/MediatorDemo/MediatorDemo.Web/obj/Debug/netcoreapp2.1/MediatorDemo.Web.dll
+/Users/david/Sites/DotNet/MediatorDemo/MediatorDemo.Web/obj/Debug/netcoreapp2.1/MediatorDemo.Web.pdb
