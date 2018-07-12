@@ -7,13 +7,13 @@ namespace MediatorDemo.Web.Queries
 {
   public class GetProductQueryHandler : IRequestHandler<GetProductQuery, ProductViewModel>
   {
-    public async Task<ProductViewModel> Handle(GetProductQuery request, CancellationToken cancellationToken)
+    public Task<ProductViewModel> Handle(GetProductQuery request, CancellationToken cancellationToken)
     {
-      return new ProductViewModel
+      return Task.FromResult(new ProductViewModel
       {
         Id = 1,
         Name = "MyProduct"
-      };
+      });
     }
   }
 }
